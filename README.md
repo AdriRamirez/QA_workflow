@@ -137,9 +137,9 @@ If the bug found is small and it can be fixed easily, it should be prioritaze an
 ![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/Images/bug_diagram.png?raw=true)
 
 ## References
-[Quality Assurance & Quality Control](https://gamecloud-ltd.com/video-game-quality-assurance-testing-process-part-1/)
+[Quality Assurance & Quality Control 1](https://gamecloud-ltd.com/video-game-quality-assurance-testing-process-part-1/)
 
-[QA & QC](https://jelvix.com/blog/quality-assurance-vs-quality-control/)
+[Quality Assurance & Quality Control 2](https://jelvix.com/blog/quality-assurance-vs-quality-control/)
 
 [QA Team](https://8bitplay.com/blog/ultimate-super-turbo-hd-guide-to-the-game-development-roles-qa-game-tester-jobs#what-is-QA-tester)
 
