@@ -16,3 +16,5 @@ This page and research has been made by Adrian Ramirez, Video Game Design and De
 [Agile](https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/)
 
 [Waterfall](https://business.adobe.com/blog/basics/waterfall#:~:text=The%20Waterfall%20methodology%20%E2%80%94%20also%20known,before%20the%20next%20phase%20begins.)
+
+[Bug Report](https://www.gamedeveloper.com/design/how-to-report-bugs)
