@@ -149,3 +149,5 @@ If the bug found is small and it can be fixed easily, it should be prioritaze an
 
 [Waterfall](https://business.adobe.com/blog/basics/waterfall#:~:text=The%20Waterfall%20methodology%20%E2%80%94%20also%20known,before%20the%20next%20phase%20begins.)
 
+[Bug Report](https://www.gamedeveloper.com/design/how-to-report-bugs)
+
