@@ -2,7 +2,7 @@
 ## Quality Assurance (QA)
 Quality Assurance or QA is a systematic process on how to perform tasks that “ensure” the quality of the project from the beginning to the end. Quality Assurance is proactive, it aims at preventing issues before they are detected in the product. So, QA’s priority is to increase the team’s productivity, prevent issues, and optimize the processes. This is done via documentation, planning, and training. This cannot be mixed up with Quality Control or QC, which objective is to determine which are the quality requirements for the QA to fulfill.
 
-![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/Images/QAvsQC.jpg?raw=true)
+![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/docs/Images/QAvsQC.jpg?raw=true)
 
 ## QA Workflow in Video Games
 During the development of the game the workflow changes with the different phases of production, therefore the tasks and priorities change as we go forward and we are asked for different feedback based on the priorities of that development phase.
@@ -54,11 +54,11 @@ Agile is one of the most popular approaches to project management due to its fle
 
   * **Retrospective:** the way in which the project has been executed is analyzed, detecting possible failures and points of improvement for the next sprint.
   
-![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/Images/scrum.png?raw=true)
+![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/docs/Images/scrum.png?raw=true)
 
 * **Kanban:** Is an Agile framework used to visualize and improve workflows, reduce waste and inefficiency, and increase team focus by limiting work in progress. Unlike Scrum, kanban is not based around sprints. Instead, Kanban is flexible and adapts to existing roles and team structures by categorizing tasks on a Kanban board according to what production phase they are in (To-Do, In Progress, and Complete).
 
-![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/Images/kanban.png?raw=true)
+![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/docs/Images/kanban.png?raw=true)
 
 ## Waterfall Methodoloy
 Waterfall model is a linear, sequential development process that is often used in project management. It divides the process into distinct phases, each of which must be completed before moving on to the next. The phases are typically:
@@ -77,7 +77,7 @@ Waterfall model is a linear, sequential development process that is often used i
 
 The waterfall methodology is called so because it follows a linear, cascading sequence of phases, where each phase must be completed before the next one can begin. It is a structured and disciplined approach to project managing that can be useful in certain situations, but it also has limitations, such as a lack of flexibility and difficulty in accommodating changes in requirements during the development process.
 
-![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/Images/waterfall.png?raw=true)
+![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/docs/Images/waterfall.png?raw=true)
 
 ## Bugs Report
 Reporting a bug in QA testing in a video game studio typically involves the following steps:
@@ -127,14 +127,14 @@ By following these steps, you can help ensure that bugs are reported and address
 
 By using a bug report template like this, you can ensure that your bug reports are comprehensive, well-organized, and easy for others to understand, which can help expedite the bug-fixing process.
 
-![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/Images/bug_template.png?raw=true)
+![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/docs/Images/bug_template.png?raw=true)
 
 Example of a template using Github Issues
 
 ### Bug Fixing
 If the bug found is small and it can be fixed easily, it should be prioritaze and start working on the remaining features of the game once fixed. Otherwise, if the bug is big, programmers should have few more days to work on that. It should not take more than that to fix the bug. However, if that situation occurs, only the specialist in that land should focus on the bug. The other members will continue working on the project.
 
-![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/Images/bug_diagram.png?raw=true)
+![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/docs/Images/bug_diagram.png?raw=true)
 
 ## References
 [Quality Assurance & Quality Control 1](https://gamecloud-ltd.com/video-game-quality-assurance-testing-process-part-1/)
