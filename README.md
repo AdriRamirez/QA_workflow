@@ -135,3 +135,17 @@ Example of a template using Github Issues
 If the bug found is small and it can be fixed easily, it should be prioritaze and start working on the remaining features of the game once fixed. Otherwise, if the bug is big, programmers should have few more days to work on that. It should not take more than that to fix the bug. However, if that situation occurs, only the specialist in that land should focus on the bug. The other members will continue working on the project.
 
 ![](https://github.com/AdriRamirez/QA_workflow.github.io/blob/main/Images/bug_diagram.png?raw=true)
+
+## References
+[Quality Assurance & Quality Control](https://gamecloud-ltd.com/video-game-quality-assurance-testing-process-part-1/)
+
+[QA & QC](https://jelvix.com/blog/quality-assurance-vs-quality-control/)
+
+[QA Team](https://8bitplay.com/blog/ultimate-super-turbo-hd-guide-to-the-game-development-roles-qa-game-tester-jobs#what-is-QA-tester)
+
+[QA Tester role](https://pinglestudio.com/blog/game-testing/qa-lead-responsibilities-and-video-game-testers-role)
+
+[Agile](https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/)
+
+[Waterfall](https://business.adobe.com/blog/basics/waterfall#:~:text=The%20Waterfall%20methodology%20%E2%80%94%20also%20known,before%20the%20next%20phase%20begins.)
+
