@@ -1,0 +1,11 @@
+https://gamecloud-ltd.com/video-game-quality-assurance-testing-process-part-1/
+https://neklo.com/what-is-quality-assurance-testing/#:~:text=A%20QA%20Process%20Flow%20Guide,that%20conflict%20with%20the%20requirements
+https://jelvix.com/blog/quality-assurance-vs-quality-control/
+https://pinglestudio.com/blog/game-testing/qa-lead-responsibilities-and-video-game-testers-role
+https://8bitplay.com/blog/ultimate-super-turbo-hd-guide-to-the-game-development-roles-qa-game-tester-jobs#what-is-QA-tester
+https://www.wrike.com/project-management-guide/faq/what-is-agile-methodology-in-project-management/
+
+https://alexandruc5.github.io/QA-Workflow-research/
+https://vozes.github.io/QA-Workflow/
+
+https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site
